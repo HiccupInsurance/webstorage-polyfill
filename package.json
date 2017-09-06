@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:AgentME/webstorage-polyfill.git"
+    "url": "git@github.com:HiccupInsurance/webstorage-polyfill.git"
   },
   "keywords": [
     "localStorage",
@@ -29,9 +29,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AgentME/webstorage-polyfill/issues"
+    "url": "https://github.com/HiccupInsurance/webstorage-polyfill/issues"
   },
-  "homepage": "https://github.com/AgentME/webstorage-polyfill",
+  "homepage": "https://github.com/HiccupInsurance/webstorage-polyfill",
   "devDependencies": {
     "mocha": "^3.1.0"
   }
